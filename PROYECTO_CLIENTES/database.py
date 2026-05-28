@@ -1,0 +1,1 @@
+# Configuración futura de base de datos
